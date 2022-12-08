@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 3,
+        "nombre": "Apple TV",
+        "marca": "Apple",
+        "modelo": "4k 32gb 2022",
+        "precio": 74990,
+        "stock": 30,
+        "img": "apple-tv.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": 4,
+        "nombre": "Auriculares",
+        "marca": "HyperX",
+        "modelo": "Cloud Stinger",
+        "precio": 17999,
+        "stock": 20,
+        "img": "auriculares-hyperx.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": 4,
+        "nombre": "Joystick",
+        "marca": "Xbox",
+        "modelo": "Series XS Black",
+        "precio": 33154,
+        "stock": 15,
+        "img": "joystick-xbox.png"
+    },
+    {
+        "id": 4,
+        "idCategoria": 3,
+        "nombre": "Smart Tv",
+        "marca": "Samsung",
+        "modelo": "Series 7 4k 50\"",
+        "precio": 118999,
+        "stock": 30,
+        "img": "smart-samsung.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Notebook",
+        "marca": "Gigabyte",
+        "modelo": "Aorus 17\" XE5 Rtx 3070 Ti",
+        "precio": 860998,
+        "stock": 7,
+        "img": "notebook-aorus.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": 4,
+        "nombre": "Mouse",
+        "marca": "Corsair",
+        "modelo": "Scimitar Pro Black",
+        "precio": 24900,
+        "stock": 20,
+        "img": "mouse-corsair.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Celular",
+        "marca": "Samsung",
+        "modelo": "Galaxy Z Flip 4 256gb",
+        "precio": 264000,
+        "stock": 10,
+        "img": "Samsung-Galaxy-Z-Flip4.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 1,
+        "nombre": "Macbook Air",
+        "marca": "Apple ",
+        "modelo": "M1 256gb",
+        "precio": 309000,
+        "stock": 30,
+        "img": "macbook-air.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": 2,
+        "nombre": "Celular",
+        "marca": "Samsung",
+        "modelo": "S21 White 128gb",
+        "precio": 199990,
+        "stock": 21,
+        "img": "samsung-s21.png"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "Notebook Dell Inspiron",
+        "marca": "Dell",
+        "modelo": "3515",
+        "precio": 199900,
+        "stock": 25,
+        "img": "notebook-dell.png"
+    },
+    {
+        "id": 11,
+        "idCategoria": 4,
+        "nombre": "Minicomponente",
+        "marca": "Sony",
+        "modelo": "MHC V02",
+        "precio": 85000,
+        "stock": 30,
+        "img": "minicomponente-sony.png"
+    },
+    {
+        "id": 12,
+        "idCategoria": 2,
+        "nombre": "Celular",
+        "marca": "Motorola",
+        "modelo": "Edge 30 128gb",
+        "precio": 120000,
+        "stock": 20,
+        "img": "motorola-edge30.png"
+    }
+
+]
