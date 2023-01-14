@@ -1,5 +1,12 @@
 import './App.css';
+import 'react-toastify/dist/ReactToastify.css';
+//Router Dom
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
+
+//Context
+import { DarkModeProvider } from '../context/DarkModeContext';
+
+import {ToastContainer} from 'react-toastify';
 
 //Componentes
 import Navbar from './Navbar/Navbar';
@@ -15,20 +22,22 @@ const App = () => {
   return (
     <> 
       <BrowserRouter>
-        <Navbar/>
-        <Banners/>
-        <Routes>
-          <Route path='/' element={<ItemListContainer/>}/>
-          <Route path='/product/:id' element={<ItemDetailContainer/>}/>
-          <Route path='/category/:category' element={<ItemListContainer/>}/>
-          <Route path='/cart' element={<Cart/>}/>
-          <Route path='/checkout' element={<Checkout/>}/>
-        </Routes>
+        <DarkModeProvider>
+          <Navbar/>
+          <Banners/>
+          <Routes>
+            <Route path='/' element={<ItemListContainer/>}/>
+            <Route path='/product/:id' element={<ItemDetailContainer/>}/>
+            <Route path='/category/:category' element={<ItemListContainer/>}/>
+            <Route path='/cart' element={<Cart/>}/>
+            <Route path='/checkout' element={<Checkout/>}/>
+          </Routes>
+        </DarkModeProvider>
         <Footer/>
+        <ToastContainer/>
       </BrowserRouter>
     </>
       
   );
 }
-//<Footer/> agregar despues de Routes
 export default App;

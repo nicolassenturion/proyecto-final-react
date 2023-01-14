@@ -7,7 +7,7 @@
         "modelo": "4k 32gb 2022",
         "precio": 74990,
         "stock": 30,
-        "img": "apple-tv.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/apple-tv.png?alt=media&token=4161f843-54f4-494f-8e9c-ecbb217481ea"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "modelo": "Cloud Stinger",
         "precio": 17999,
         "stock": 20,
-        "img": "auriculares-hyperx.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/auriculares-hyperx.png?alt=media&token=b46b6a30-6ae2-4d45-a930-c694dc4bc831"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "modelo": "Series XS Black",
         "precio": 33154,
         "stock": 15,
-        "img": "joystick-xbox.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/joystick-xbox.png?alt=media&token=d4f8d428-fcd1-415b-afe5-1213e252b7ad"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "modelo": "Series 7 4k 50\"",
         "precio": 118999,
         "stock": 30,
-        "img": "smart-samsung.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/smart-samsung.png?alt=media&token=7f50fdcd-3f5b-4878-bbca-363054a894f0"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "modelo": "Aorus 17\" XE5 Rtx 3070 Ti",
         "precio": 860998,
         "stock": 7,
-        "img": "notebook-aorus.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/notebook-aorus.png?alt=media&token=b3122140-3dfd-489f-aa50-2b7e8da7a4ca"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "modelo": "Scimitar Pro Black",
         "precio": 24900,
         "stock": 20,
-        "img": "mouse-corsair.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/mouse-corsair.png?alt=media&token=1ae96ce0-4174-40c7-8ec2-34a3e86c8559"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "modelo": "Galaxy Z Flip 4 256gb",
         "precio": 264000,
         "stock": 10,
-        "img": "Samsung-Galaxy-Z-Flip4.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/Samsung-Galaxy-Z-Flip4.png?alt=media&token=5476e661-246f-44ee-a537-4632eb37bbd4"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "modelo": "M1 256gb",
         "precio": 309000,
         "stock": 30,
-        "img": "macbook-air.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/macbook-air.png?alt=media&token=9fd0c617-da30-4410-acf1-28d5cb680fd5"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "modelo": "S21 White 128gb",
         "precio": 199990,
         "stock": 21,
-        "img": "samsung-s21.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/Samsung-s21.png?alt=media&token=5e42fd8b-6aa8-479e-aa46-ac5178b003ed"
     },
     {
         "id": 10,
@@ -97,17 +97,17 @@
         "modelo": "3515",
         "precio": 199900,
         "stock": 25,
-        "img": "notebook-dell.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/notebook-dell.png?alt=media&token=bbd3b0cf-4064-4068-95a9-2948ef421834"
     },
     {
         "id": 11,
-        "idCategoria": 4,
+        "idCategoria": 3,
         "nombre": "Minicomponente",
         "marca": "Sony",
         "modelo": "MHC V02",
         "precio": 85000,
         "stock": 30,
-        "img": "minicomponente-sony.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/minicomponente-sony.png?alt=media&token=18f6e74f-3430-4c4f-82a3-085f4156ecf1"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "modelo": "Edge 30 128gb",
         "precio": 120000,
         "stock": 20,
-        "img": "motorola-edge30.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-98743.appspot.com/o/motorola-edge30.png?alt=media&token=c525d8a7-d839-4987-8053-36255ad7c6d4"
     }
 
 ]

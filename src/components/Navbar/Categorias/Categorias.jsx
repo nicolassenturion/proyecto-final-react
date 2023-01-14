@@ -3,7 +3,7 @@ const Categorias = () => {
     return ( 
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-link">
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"./"}><i className="fas fa-home fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"./"}><i className="fas fa-store fa-lg"></i></Link></button>
                 </li>
                 <li className="nav-link">
                     
@@ -22,7 +22,7 @@ const Categorias = () => {
                 </li>
                 <li className="nav-link">
                    
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/4"}><i className="fas fa-headphones fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/4"}><i className="fas fa-gamepad fa-lg"></i></Link></button>
                     
                 </li>
             </ul>

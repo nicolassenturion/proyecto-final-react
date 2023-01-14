@@ -1,7 +1,6 @@
 .cardProducto {
     width: 18rem;
     margin: 4px;
-    background-color: hsl(0, 0%, 97%);
     height: 31em;
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
@@ -13,10 +12,29 @@
     padding: 1.5rem;
 }
 
+.cardProductoDark {
+    width: 18rem;
+    margin: 4px;
+    height: 31em;
+    border-radius: 7px;
+    transition: all 0.25s cubic-bezier(0.645,0.045,0.355,1);
+    background-color:   rgb(39, 38, 38);
+    box-shadow: 1.25px 1.25px 10px #0c2329a1;
+    font-family: 'Poppins',sans-serif;
+    padding: 1.5rem;
+}
+
 .cardBody {
     background-color: white;
     margin-bottom: 3px;
     text-align: center;
+}
+
+.card-bodyDark{
+    flex: 1 1 auto;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    color: white;
+    background-color: rgb(26, 25, 25);
 }
 
 img {
@@ -27,6 +45,17 @@ img {
     margin: 4px;
     align-items:center;
     justify-content: center;
+}
+
+.darkMode{
+    background-color: black;
+    color: gainsboro;
+}
+
+.cardBodyDark {
+    background-color:  rgb(39, 38, 38);
+    margin-bottom: 3px;
+    text-align: center;
 }
 
 .cartWidget {
@@ -54,6 +83,42 @@ img {
 .itemDetail {
     max-width: 540px;
     margin-top: 20px;
+}
+
+.bg-secondary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(26, 25, 25)!important;
+}
+
+.cartContainer {
+    margin-top:3%;
+    margin-left: 26.5%;
+}
+
+.cartContainer {
+    margin-top:3%;
+    margin-left: 26.5%;
+}
+
+.divButtons button{
+    margin:4px;
+}
+
+.btn-primary{
+    height: 4rem!important;
+}
+
+.btn-danger{
+    --bs-btn-bg: red;
+    border-radius: 8px;
+    height: 4rem;
+}
+
+@media (max-width:991px) {
+    .cartWidget {
+        color:white;
+        margin-bottom: 10px;
+    }
 }
 
 .card:hover{
